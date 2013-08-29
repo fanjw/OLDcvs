@@ -1,0 +1,1 @@
+root -b -q 'SvalueFit.C ( 1, 2,"OneBin" )'
